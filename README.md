@@ -6,5 +6,5 @@ NoraApps olarak mobil uygulamalar geliştirerek kullanıcılarımıza faydalı v
 - Risksense
 
 ## İletişim
-Herhangi bir soru, öneri veya destek için bize aşağıdaki e-posta adresinden ulaşabilirsiniz:
+Herhangi bir soru, öneri veya destek için :
 all.apps.nora@gmail.com
